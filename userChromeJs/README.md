@@ -10,9 +10,6 @@
 * [StylishEditor](https://github.com/defpt/userChromeJs/tree/master/Stylish)：给Stylish扩展添加一些辅助编辑功能
 * [BackupProfile7z版29+](https://github.com/defpt/userChromeJs/blob/master/BackupProfile7z%E7%89%8829%2B.uc.js)：备份配置脚本
 
-#####Local :
-* [百度网盘下载]()
-
 #####其他资源站点 :
 * [紫云飞原创脚本](http://www.cnblogs.com/ziyunfei/archive/2011/11/25/2263756.html)
 * [饭友ywzhaiqi自用脚本](https://github.com/ywzhaiqi/userChromeJS)
