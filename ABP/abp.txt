@@ -1,0 +1,12 @@
+﻿[Adblock Plus 2.0]
+! Title: CC AdFilters
+! Expires: 4 hours
+! Version: 201505160243
+! Last Modified: 2015年05月16日 02:43
+! Homepage: http://tieba.baidu.com/p/3460075419
+!
+!xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+!xxxxx            CC  AdFilters            xxxx
+!xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+!
+hao123.com###plantingtree
